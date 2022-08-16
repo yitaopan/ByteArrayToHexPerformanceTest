@@ -1,0 +1,15 @@
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\bin\Debug\net6.0\ByteArrayToHexPerformanceTest.exe
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\bin\Debug\net6.0\ByteArrayToHexPerformanceTest.deps.json
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\bin\Debug\net6.0\ByteArrayToHexPerformanceTest.runtimeconfig.json
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\bin\Debug\net6.0\ByteArrayToHexPerformanceTest.dll
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\bin\Debug\net6.0\ByteArrayToHexPerformanceTest.pdb
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\obj\Debug\net6.0\ByteArrayToHexPerformanceTest.csproj.AssemblyReference.cache
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\obj\Debug\net6.0\ByteArrayToHexPerformanceTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\obj\Debug\net6.0\ByteArrayToHexPerformanceTest.AssemblyInfoInputs.cache
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\obj\Debug\net6.0\ByteArrayToHexPerformanceTest.AssemblyInfo.cs
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\obj\Debug\net6.0\ByteArrayToHexPerformanceTest.csproj.CoreCompileInputs.cache
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\obj\Debug\net6.0\ByteArrayToHexPerformanceTest.dll
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\obj\Debug\net6.0\refint\ByteArrayToHexPerformanceTest.dll
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\obj\Debug\net6.0\ByteArrayToHexPerformanceTest.pdb
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\obj\Debug\net6.0\ByteArrayToHexPerformanceTest.genruntimeconfig.cache
+D:\repos\tests\ByteArrayToHexPerformanceTest\ByteArrayToHexPerformanceTest\obj\Debug\net6.0\ref\ByteArrayToHexPerformanceTest.dll
